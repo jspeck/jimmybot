@@ -9,7 +9,7 @@ import re
 
 import threading
 
-path = '/home/johnathans96/jimmybot/'
+path = ''
 
 class Stream:
     def __init__(self, display_name, status, url):
