@@ -2,15 +2,11 @@ speedrun
 70
 16
 120
-star
 bingo
-pb
-personal best
 run
 practice
 runs
-srl70
-120
-16
+race
 attempts
-runs
+attempt
+rta
